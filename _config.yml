@@ -1,0 +1,23 @@
+name: IsaacSunkes
+favicon: null
+layout_spectrum: 0.10946085536852479
+typography_spectrum: 0.3832959355786443
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6507362376432866
+  lightness: 0.42270615929737687
+  saturation: 0.6310223625041544
+  rhythmicContrast: 0.12361504067666829
+purpose: []
